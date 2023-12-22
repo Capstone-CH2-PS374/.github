@@ -1,3 +1,7 @@
+# Integrated Solutions for Volunteerism ( Impacter )
+Impacter takes the concept of volunteerism to the next level by providing an integrated, easy-to-use solution. Impacter is an application that connects volunteers with various events and volunteer activities efficiently, providing easy and fast access in just one platform.
+
+
 # Teams 
 
 | Bangkit-ID | Name | Learning Path |
