@@ -1,12 +1,15 @@
-## Hi there 👋
+# Integrated Solutions for Volunteerism ( Impacter )
+Impacter takes the concept of volunteerism to the next level by providing an integrated, easy-to-use solution. Impacter is an application that connects volunteers with various events and volunteer activities efficiently, providing easy and fast access in just one platform.
 
-<!--
 
-**Here are some ideas to get you started:**
+# Teams 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Bangkit-ID | Name | Learning Path |
+| :-------------------------: | :--------: | :----------------: | 
+| M128BSY0784 | [Vidi Septri Argalus Mp](https://github.com/argalusmp) | Machine Learning |
+| M128BSY0766 | [Muhammad Fahmi Zuhdi](https://github.com/mfhmiii) | Machine Learning |
+| M290BSX1056 | [Faiqa Hadya Hanifa](https://github.com/rosesarejade) | Machine Learning |
+| A128BSY2614  | [Haidar Azmi Rohman](https://github.com/haazman) | Mobile Development |
+| A008BSX2794  | [Riva Mahyuli](https://github.com/RIVAMAHYULi) | Mobile Development |
+| C359BSY4180 | [Recal Prasetyo](https://github.com/Stev1oL) | Cloud Computing |
+| C394BSY3406 | [Muhamad Dicky Irsyad Fauzan](https://github.com/dickyirsyadf) | Cloud Computing |
